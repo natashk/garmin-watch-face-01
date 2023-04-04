@@ -1,0 +1,5 @@
+<fonts>
+    <font id="fntAntonio70" filename="antonio70.fnt" filter="0123456789:"/>
+    <font id="fntAntonio30" filename="antonio30.fnt" filter="0123456789"/>
+    <font id="fntShare13" filename="share13.fnt" filter="0123456789"/>
+</fonts>
